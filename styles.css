@@ -5,7 +5,7 @@
 }
 body{
     background-image: url(./background_weather_project.jpg);
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-size: cover;
 }
 h1{
